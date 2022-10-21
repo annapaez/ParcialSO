@@ -1,0 +1,3 @@
+# ParcialSO
+Tabajo integrador parcial 1 de sistemas operativos
+https://um-annap.jimdosite.com/
